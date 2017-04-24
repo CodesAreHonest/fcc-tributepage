@@ -1,24 +1,13 @@
 .container {
     background-color: #DCDCDC;
-    margin: auto;
-    border-radius: 5px;
-    text-align: center;
-
+    width: 1140px;
+    margin-top: 30px;
 }
-
-.spacing {
-    padding-top: 40px;
-}
-
 .title {
-
     padding-top: 40px;
     font-size: 60px;
 }
 
-.subtitle {
-    font-size: 30px;
-    padding-top: 10px;
-    font-style: italic;
+.text-center {
+    text-align: center;
 }
-
