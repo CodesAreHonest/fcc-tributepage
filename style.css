@@ -1,13 +1,62 @@
 .container {
-    background-color: #DCDCDC;
+    background-color: #F5F5F5;
     width: 1140px;
-    margin-top: 30px;
+    margin-top: 50px;
+    border-radius: 10px;
+    margin-bottom: 15px;
 }
+
+.footer-container{
+    margin-top: 20px;
+}
+
 .title {
     padding-top: 40px;
     font-size: 60px;
 }
 
+.sub-title{
+    padding-top: 15px;
+    font-style: italic;
+}
+
 .text-center {
     text-align: center;
+}
+
+.image-center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.white-container{
+    background-color: white;
+    width: 1040px;
+    border-radius: 5px;
+    padding-top: 5px;
+}
+
+.picture {
+    padding-left: 6.5px;
+}
+
+.picture-description {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.h3{
+    padding-top: 45px;
+    margin-right: 20px;
+}
+
+.minister-quotes {
+    padding-top: 20px;
+    font-size: 25px;
+}
+
+.minister-name {
+    padding-left: 30px;
+    /*color: lightgray;*/
+    font-style: italic;
 }
