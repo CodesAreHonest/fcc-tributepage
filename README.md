@@ -14,6 +14,7 @@ Table Of Contents
   * [Contributor](#contributor)
   * [Status](#status)
 
+*** 
 
 Highlight
 ==========
@@ -28,7 +29,9 @@ Software Resources
 
 Screenshot  
 ----------
-<p align="center"><img src="img/screenshot.png"/></p>
+<p align="center"><img src="img/screenshot.png"/></p>  
+
+***  
 
 About
 =====
